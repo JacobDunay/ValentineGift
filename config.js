@@ -35,7 +35,7 @@ const CONFIG = {
     },
 
     celebration: {
-        title: "You'll always be my forever valentine, I love you so much 💝💖💝💓",
+        title: "You'll always be my forever valentine, I love you so much...",
         message: "I want you to know that there's nothing else in my entire life that's more precious to me than you. I love you more than words can describe and I want you to understand that you make me feel a happiness and comfort I'm not used to. You always manage to make me get lost in your pretty eyes and beautiful smile because you're the prettiest girl, even if you sometimes don't think so. I love that I can depend on you, especially with how smart and capable you are, because you're my other half and the one who is always there to support me. I think you're amazing in so many ways that I can't fit it all here, so instead maybe I'll keep letting you know how pretty, cute, funny, kind, smart, capable, and amazing you are for the rest of our lives together, my darling.  ",
         emojis: "💖💝💋❤️💕"
     },
